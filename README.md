@@ -1,16 +1,11 @@
-# Full CI/CD pipelines for microservices, based java dynamic web applications with database.  
+# Integrating an AI Chatbot into a Microservices App Using Azure's OpenAI as the LLM provider.
+## Step-by-Step Tutorial: Integrating an AI Chatbot into a Microservices Application with MySQL DB Using Azure's OpenAI as the LLM provider.
 
-#### I worked with a Spring pet clinic application consisting of 10 microservices. It is a Java-based web application developed by Spring company. I ran it on Development, Testing, Staging, and Production environments by using different DevOps tools (Jenkins, Kubernetes and Helm, Docker, Docker Compose, Terraform, Rancher, Nexus Repository, Maven, Ansible, Prometheus and Grafana, GitHub,  Selenium Jobs and Jacoco, Kompose conversion tool, Let’s Encrypt ACME and Cert Manager) and AWS Tools (Amazon Route 53, AWS Certificate Manager, AWS RDS MySql Database, AWS S3 Bucket, Amazon EKS(Kubernetes Service), Amazon ECS(Container Service), Amazon ECR(Container Repository), Amazon EC2, Amazon VPC's Components etc.). I created each environment and ran my application in it. When I worked in Staging and Production environments, I created full CI/CD Jenkins pipelines for each. Jenkins Server deployed on Elastic Compute Cloud (EC2) Instance is used as CI/CD Server to build pipelines. It has profiles: Testing/Staging/Production.
-
-#### Also, finally, I set “Domain Name”, create an “A record” in my hosted zone by using AWS Route 53 domain registrar for the microservices app, and then, bind it to my the “Kubernetes cluster of the app”. I configured a TLS (Transport Layer Security) certificate for HTTPS connection to the domain name using Let’s Encrypt and Cert Manager. Thus, I provided a secure connection to my application on the Internet. 
-
-![Spring Petclinic Microservices screenshot](docs/outputletsencrypt.jpg)
+<img width="2064" height="1591" alt="image" src="https://github.com/user-attachments/assets/20e0cc1b-9a21-4146-a0bd-49b5e3be0ff8" />
 
 ## 📗 Medium Articles Link:
 
-- [📝Boost App Speed Using Redis Sentinel + Insight: Build a Highly Available Database Cache - A Hands-On Guide](https://cmakkaya.medium.com/boost-app-speed-using-redis-sentinel-insight-build-a-highly-available-database-cache-a-dacd71d929d0)
-
-Learn how to build a highly available and scalable Redis database cache using Redis Sentinel. Boost your app's performance with this hands-on guide that covers caching strategies, Sentinel setup, failover testing, and Redis Insight monitoring.
+- [📝Integrating an AI Chatbot into a Microservices App Using Azure's OpenAI as the LLM provider - A Hands-On Guide]()
 
 
 
@@ -43,13 +38,16 @@ I hope they are useful to you.
 
 🙏 I wish you growing success.
 
-
+----------
 ### 📗 Note: If you want to learn more about deploying a Microservices Application with RDS MySQL DB into a Kubernetes Cluster with High Availability, Auto-Healing, Reliability, Auto Scaling, Monitoring, and Securing, you can read my Medium articles below. 
 
 - [📝 Deploying a Microservices Application with RDS MySql DB into Kubernetes Cluster With High Availability, Auto-Healing, Reliability, Auto Scaling, Monitoring, and Securing.](https://cmakkaya.medium.com/deploying-a-microservices-application-with-rds-mysql-db-into-kubernetes-cluster-with-high-818c7c51ab12)
 
-<img width="2508" height="1402" alt="image" src="https://github.com/user-attachments/assets/e4af0dab-4c06-44ac-8bc6-af3d1353db5b" />
+<img width="1606" height="898" alt="image" src="https://github.com/user-attachments/assets/521a6174-55ec-4562-9a50-23626df538f9" />
 
+Step by Step Full DevOps Project, we will create a Kubernetes Cluster with High Availability, Auto-Healing, Reliability, Auto Scaling, Monitoring, and Securing on the Amazon EKS via Terraform or Cloudformation. To do these, we will create and use GitOps Workflow(ArgoCD), Jenkins, Rancher, Amazon Elastic Kubernetes Service (EKS), RDS MySQL Database, VPC (with both public and private subnets) for Amazon EKS, AWS Secrets Manager, Amazon Route53, Amazon Cloudfront, AWS Certificate Manager, Let's Encrypt-Cert Manager, CloudWatch, Prometheus, and Grafana. We will do these practically, step by step.
+
+----------
 ### Connect with me 📫 You can learn more about me
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/cumhurakkaya/)
@@ -59,8 +57,8 @@ I hope they are useful to you.
 - 🏢 [Portfolio/Resume Page](https://portfolio.cmakkaya-awsdevops.link/)
 - 📺 [YouTube](https://www.youtube.com/channel/UCWcRIvy70tBBfrmBocDR5hA)
 
-
-##  The source codes of this project
+------------
+###  The source codes of this project
 The Spring PetClinic Sample Application project was used in the source code of this project. You can find more detailed information about the source codes from [this link](https://github.com/spring-petclinic/).
 
 [![Build Status](https://github.com/spring-petclinic/spring-petclinic-microservices/actions/workflows/maven-build.yml/badge.svg)](https://github.com/spring-petclinic/spring-petclinic-microservices/actions/workflows/maven-build.yml)

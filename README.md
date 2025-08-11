@@ -53,9 +53,6 @@ Step by Step Full DevOps Project, we will create a Kubernetes Cluster with High 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/cumhurakkaya/)
 - ✏️ [Medium Articles](https://cmakkaya.medium.com/)  100+ Articles
 - 🌐 [GitHub](https://github.com/cmakkaya/)
-- 🌐 [GitLab](https://gitlab.com/cmakkaya)
-- 🏢 [Portfolio/Resume Page](https://portfolio.cmakkaya-awsdevops.link/)
-- 📺 [YouTube](https://www.youtube.com/channel/UCWcRIvy70tBBfrmBocDR5hA)
 
 ------------
 ###  The source codes of this project

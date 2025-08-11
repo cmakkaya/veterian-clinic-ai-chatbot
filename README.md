@@ -5,7 +5,7 @@
 
 ## 📗 Medium Articles Link:
 
-- [📝Integrating an AI Chatbot into a Microservices App Using Azure's OpenAI as the LLM provider - A Hands-On Guide]()
+- [📝Integrating an AI Chatbot into a Microservices App Using Azure's OpenAI as the LLM provider - A Hands-On Guide]() `Coming soon.`
 
 
 

@@ -20,13 +20,27 @@
 ## You can access the following services at the given location:
 
 * Discovery Server - http://localhost:8761
+<img width="1870" height="1503" alt="image" src="https://github.com/user-attachments/assets/5f2ff0bf-5454-4067-a299-84e8b343dd6f" />
+
 * Config Server - http://localhost:8888
+  <img width="1496" height="325" alt="image" src="https://github.com/user-attachments/assets/d174faef-90bc-4bf2-a9be-7ae61f5dbede" />
+
 * AngularJS frontend (API Gateway) - http://localhost:8080
+  <img width="1868" height="1353" alt="image" src="https://github.com/user-attachments/assets/2ee388e5-ad6b-4b3a-a773-bf5f2fe857ea" />
+
 * Customers, Vets, Visits, and GenAI Services - random port, check Eureka Dashboard 
-* Tracing Server (Zipkin) - http://localhost:9411/zipkin/ 
+* Tracing Server (Zipkin) - http://localhost:9411/zipkin/
+  <img width="1870" height="1349" alt="image" src="https://github.com/user-attachments/assets/85c47373-b944-4c29-8974-955f90e4ac85" />
+
 * Admin Server (Spring Boot Admin) - http://localhost:9090
-* Grafana Dashboards - http://localhost:3000
+  <img width="1884" height="1573" alt="image" src="https://github.com/user-attachments/assets/7ac987dc-b403-4dca-bb91-8a16706571dc" />
+
 * Prometheus - http://localhost:9091
+  <img width="1872" height="1235" alt="image" src="https://github.com/user-attachments/assets/4114bf1f-80cd-4a60-bef2-ac4851fcd018" />
+
+* Grafana Dashboards - http://localhost:3000
+  <img width="1026" height="486" alt="image" src="https://github.com/user-attachments/assets/7ff3e181-395d-49bc-bbb4-6c81ca932768" />
+
 
 ## Hi there, <img src = "https://github.com/cmakkaya/cmakkaya/blob/main/wavehand.gif" width = "40" align="center"> Nice to see you. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>  
 

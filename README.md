@@ -1,4 +1,4 @@
-# Integrating an AI Chatbot into a Microservices App Using Azure's OpenAI as the LLM provider.
+# Integrating an AI Chatbot into a Microservices App Using Azure's OpenAI as the Large Language Model (LLM) provider.
 ## Step-by-Step Tutorial: Integrating an AI Chatbot into a Microservices Application with MySQL DB Using Azure's OpenAI as the LLM provider.
 
 <img width="2064" height="1591" alt="image" src="https://github.com/user-attachments/assets/20e0cc1b-9a21-4146-a0bd-49b5e3be0ff8" />

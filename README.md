@@ -11,10 +11,40 @@
 
 ## Topics we will cover:
 
-9. Clean Up
-10. Conclusion
-11. Next post: "Caching Azure Database for PostgreSQL Flexible Server Using Redis Sentinel"
-12. References
+Introduction
+1. What are LLM and LLM Providers
+2. Azure's OpenAI
+* 2.1. What types of models are supported on Azure OpenAI?
+* 2.2. Azure OpenAI Use Cases
+* 2.3. Azure OpenAI Service pricing
+Hands-on
+3. Creating and deploying an Azure OpenAI
+4. Deploying a Model
+* 4.1. Using Azure Portal
+* 4.2. Using az command
+5. Testing the Functionality of the Azure OpenAI "gpt-4o-mini" Deployment Using the "curl" Command.
+6. Running a Java-based microservices Application with MySQL DB on Azure Cloud
+* 6.1. Cloning the Source Code of the Java-based Microservices Application to your VM
+* 6.2. Architecture Diagram of the Spring Microservices App
+* 6.3. Creating jar Files and Images
+* 6.4. Preparing Docker Compose File
+* 6.5. Creating an .env File
+* 6.6. Modifying the application.yml of spring-petclinic-genai-service to Integrate the Spring AI Chatbot
+* 6.7. Starting the Installation Microservices Application
+* 6.8. Checking that the application is running properly
+7. MySQL Database configuration
+* 7.1. Starting a MySQL Database
+* 7.2. Testing Database Functionality
+* 7.3. Checking Whether Records Have Been Written to the Database Using the MySQL Query
+* 7.3.1. Connect to MySQL Database
+* 7.3.2. Running the SQL Query to Check the Records
+* 7.3.3. Useful MySQL Commands for Microservices App's MySQL database
+8. Testing the Spring AI Chatbot
+9. Best Practices and Security for Using Azure OpenAI
+10. Clean Up
+11. Conclusion
+12. Next post
+13. References
 
 
 ## You can access the following services at the given location:

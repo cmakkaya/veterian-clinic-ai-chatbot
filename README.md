@@ -1,4 +1,4 @@
-# Integrating an AI Chatbot into a Microservices App Using Azure's OpenAI as the Large Language Model (LLM) provider.
+# Developing a Scalable AI Chatbot Using Azure OpenAI (LLM provider), Java Microservices, and MySQL – A Complete Guide
 ## Step-by-Step Tutorial: Integrating an AI Chatbot into a Microservices Application with MySQL DB Using Azure's OpenAI as the LLM provider.
 
 <img width="2064" height="1591" alt="image" src="https://github.com/user-attachments/assets/20e0cc1b-9a21-4146-a0bd-49b5e3be0ff8" />
@@ -26,11 +26,11 @@ Hands-on
 6. Running a Java-based microservices Application with MySQL DB on Azure Cloud
 * 6.1. Cloning the Source Code of the Java-based Microservices Application to your VM
 * 6.2. Architecture Diagram of the Spring Microservices App
-* 6.3. Creating jar Files and Images
+* 6.3. Creating Jar Files and Images
 * 6.4. Preparing Docker Compose File
 * 6.5. Creating an .env File
-* 6.6. Modifying the application.yml of spring-petclinic-genai-service to Integrate the Spring AI Chatbot
-* 6.7. Starting the Installation Microservices Application
+* 6.6. Modifying the application.yml of spring-petclinic-genai-service to integrate the Spring/Azure AI Chatbot
+* 6.7. Starting the Installation of the Microservices Application
 * 6.8. Checking that the application is running properly
 7. MySQL Database configuration
 * 7.1. Starting a MySQL Database
@@ -39,12 +39,13 @@ Hands-on
 * 7.3.1. Connect to MySQL Database
 * 7.3.2. Running the SQL Query to Check the Records
 * 7.3.3. Useful MySQL Commands for Microservices App's MySQL database
-8. Testing the Spring AI Chatbot
-9. Best Practices and Security for Using Azure OpenAI
-10. Clean Up
-11. Conclusion
-12. Next post
-13. References
+8. Testing the Azure AI Chatbot
+9. Try AI Chatbot out on GPT-5-chat and compare it with GPT-4o-mini model deployments
+10. Best Practices and Security for Using Azure OpenAI
+11. Clean Up
+12. Conclusion
+13. Next post: "Building a Scalable AI Chatbot on a Kubernetes Cluster Using Azure OpenAI (LLM Provider), Java Microservices, and MySQL - A Complete Guide"
+14. References
 
 
 ## You can access the following services at the given location:
@@ -83,7 +84,13 @@ I hope they are useful to you.
 🙏 I wish you growing success.
 
 ----------
-### 📗 Note: If you want to learn more about deploying a Microservices Application with RDS MySQL DB into a Kubernetes Cluster with High Availability, Auto-Healing, Reliability, Auto Scaling, Monitoring, and Securing, you can read my Medium articles below. 
+### 📗 Note-1: If you learn detailed information about Artificial Intelligence (AI) and AWS AI Services, you can review my articles below:
+
+- [📝 AWS AI Services-2: Hands-on use cases for Amazon Rekognition.](https://cmakkaya.medium.com/aws-ai-services-2-hands-on-use-cases-for-amazon-rekognition-4d98501ddcee)
+- [📝 AWS AI Services-1: What are Artificial Intelligence (AI) and AWS AI Services?](https://cmakkaya.medium.com/aws-ai-services-1-what-is-artificial-intelligence-ai-and-aws-ai-services-c5f2adf60243)
+
+
+### 📗 Note-2: If you want to learn more about deploying a Microservices Application with RDS MySQL DB into a Kubernetes Cluster with High Availability, Auto-Healing, Reliability, Auto Scaling, Monitoring, and Securing, you can read my Medium articles below. 
 
 - [📝 Deploying a Microservices Application with RDS MySql DB into Kubernetes Cluster With High Availability, Auto-Healing, Reliability, Auto Scaling, Monitoring, and Securing.](https://cmakkaya.medium.com/deploying-a-microservices-application-with-rds-mysql-db-into-kubernetes-cluster-with-high-818c7c51ab12)
 
